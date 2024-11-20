@@ -1,0 +1,2034 @@
+{
+  "tags" : [
+    {
+      "tags" : "Test2",
+      "type" : ""
+    },
+    {
+      "type" : "",
+      "tags" : "Test1"
+    },
+    {
+      "type" : "",
+      "tags" : "Country"
+    },
+    {
+      "tags" : "FirstName",
+      "type" : ""
+    },
+    {
+      "type" : "",
+      "tags" : "Japan"
+    },
+    {
+      "tags" : "Tsushima",
+      "type" : ""
+    },
+    {
+      "tags" : "N5",
+      "type" : ""
+    },
+    {
+      "type" : "",
+      "tags" : "City"
+    },
+    {
+      "type" : "",
+      "tags" : "Music"
+    },
+    {
+      "tags" : "RGG",
+      "type" : ""
+    },
+    {
+      "type" : "",
+      "tags" : "Genki1"
+    }
+  ],
+  "kanji" : [
+    {
+      "timestamps" : "",
+      "stroke" : 13,
+      "kun" : "あたら",
+      "on" : "シン",
+      "character" : "新",
+      "notes" : "",
+      "meaning" : "New",
+      "vocab" : [
+
+      ],
+      "tags" : [
+
+      ],
+      "pinned" : false,
+      "radicals" : "斤",
+      "words" : "新聞 (しんぶん): newspaper, 新幹線 (しんかんせん): Shinkansen, 新聞社 (しんぶんしゃ): newspaper company, 新鮮 (しんせん): fresh, 新人 (しんじん): newcomer"
+    },
+    {
+      "words" : "日曜日 (にちようび): Sunday, 日記 (にっき): diary, 日光 (にっこう): sunlight",
+      "radicals" : "日",
+      "timestamps" : "",
+      "on" : "ニチ",
+      "tags" : [
+        "N5"
+      ],
+      "character" : "日",
+      "vocab" : [
+
+      ],
+      "pinned" : false,
+      "stroke" : 4,
+      "meaning" : "Day, Sun",
+      "notes" : "",
+      "kun" : "ひ"
+    },
+    {
+      "on" : "レイ",
+      "notes" : "",
+      "radicals" : "冫",
+      "timestamps" : "",
+      "character" : "冷",
+      "meaning" : "Cold",
+      "words" : "冷や (ひや): cold water, 冷たい (つめたい): cold (to the touch)",
+      "tags" : [
+        "N5"
+      ],
+      "stroke" : 7,
+      "pinned" : false,
+      "vocab" : [
+
+      ],
+      "kun" : "つめ"
+    },
+    {
+      "radicals" : "赤",
+      "pinned" : false,
+      "tags" : [
+        "Test2",
+        "Test1",
+        "N5"
+      ],
+      "vocab" : [
+
+      ],
+      "meaning" : "Red",
+      "words" : "赤旗 (あかはた): red flag, 赤ちゃん (あかちゃん): baby, 赤い (あかい): red",
+      "notes" : "",
+      "character" : "赤",
+      "kun" : "あか",
+      "on" : "セキ",
+      "timestamps" : "",
+      "stroke" : 7
+    },
+    {
+      "vocab" : [
+
+      ],
+      "character" : "生",
+      "words" : "生 (なま): raw, 生活 (せいかつ): life, 生きる (いきる): to live, 生産 (せいさん): production",
+      "kun" : "なま",
+      "pinned" : false,
+      "on" : "セイ",
+      "timestamps" : "",
+      "radicals" : "生",
+      "tags" : [
+        "N5"
+      ],
+      "meaning" : "Life, Birth",
+      "notes" : "",
+      "stroke" : 5
+    },
+    {
+      "character" : "学",
+      "notes" : "",
+      "kun" : "まな",
+      "radicals" : "子",
+      "timestamps" : "",
+      "meaning" : "Study, Learning",
+      "vocab" : [
+
+      ],
+      "on" : "ガク",
+      "stroke" : 8,
+      "tags" : [
+        "N5"
+      ],
+      "words" : "学者 (がくしゃ): scholar, 学習 (がくしゅう): study",
+      "pinned" : false
+    },
+    {
+      "pinned" : false,
+      "kun" : "き",
+      "meaning" : "Tree",
+      "words" : "木曜日 (もくようび): Thursday",
+      "on" : "モク",
+      "timestamps" : "",
+      "tags" : [
+
+      ],
+      "stroke" : 4,
+      "notes" : "",
+      "vocab" : [
+
+      ],
+      "character" : "木",
+      "radicals" : "木"
+    },
+    {
+      "character" : "今",
+      "kun" : "いま",
+      "on" : "コン",
+      "pinned" : false,
+      "words" : "今日 (きょう): today, 今朝 (けさ): this morning, 今年 (ことし): this year, 今週 (こんしゅう): this week, 今月 (こんげつ): this month, 今晩 (こんばん): tonight, 今度 (こんど): this time, 今夜 (こんや): this evening",
+      "timestamps" : "",
+      "tags" : [
+        "N5"
+      ],
+      "meaning" : "now",
+      "radicals" : "人",
+      "vocab" : [
+
+      ],
+      "stroke" : 4,
+      "notes" : ""
+    },
+    {
+      "notes" : "",
+      "vocab" : [
+
+      ],
+      "character" : "盛",
+      "kun" : "もる",
+      "on" : "セイ、 ジョウ",
+      "tags" : [
+
+      ],
+      "pinned" : false,
+      "timestamps" : "",
+      "stroke" : 11,
+      "words" : "",
+      "meaning" : "Boom",
+      "radicals" : "皿"
+    },
+    {
+      "notes" : "",
+      "vocab" : [
+
+      ],
+      "meaning" : "person",
+      "kun" : "もの",
+      "pinned" : false,
+      "radicals" : "耂",
+      "stroke" : 8,
+      "timestamps" : "",
+      "character" : "者",
+      "on" : "シャ",
+      "words" : "",
+      "tags" : [
+
+      ]
+    },
+    {
+      "notes" : "",
+      "timestamps" : "",
+      "stroke" : 9,
+      "kun" : "あら",
+      "tags" : [
+
+      ],
+      "pinned" : false,
+      "meaning" : "wash",
+      "on" : "セン",
+      "words" : "洗浄 (せんじょう): washing",
+      "character" : "洗",
+      "vocab" : [
+
+      ],
+      "radicals" : "水"
+    },
+    {
+      "vocab" : [
+
+      ],
+      "character" : "川",
+      "timestamps" : "",
+      "tags" : [
+        "N5"
+      ],
+      "notes" : "",
+      "radicals" : "川",
+      "on" : "セン",
+      "words" : "川岸 (かわぎし): riverbank",
+      "meaning" : "river",
+      "pinned" : false,
+      "stroke" : 3,
+      "kun" : "かわ"
+    },
+    {
+      "meaning" : "Line",
+      "kun" : "せん",
+      "on" : "セン",
+      "character" : "線",
+      "radicals" : "糸",
+      "stroke" : 15,
+      "words" : "線路 (せんろ): railway track, 線香 (せんこう): incense stick",
+      "pinned" : false,
+      "notes" : "",
+      "timestamps" : "",
+      "tags" : [
+        "N5"
+      ],
+      "vocab" : [
+
+      ]
+    },
+    {
+      "notes" : "",
+      "character" : "泡",
+      "words" : "",
+      "on" : "ホウ",
+      "timestamps" : "",
+      "pinned" : false,
+      "radicals" : "水",
+      "meaning" : "bubble",
+      "vocab" : [
+
+      ],
+      "stroke" : 8,
+      "kun" : "あわ",
+      "tags" : [
+
+      ]
+    },
+    {
+      "notes" : "",
+      "kun" : "み",
+      "stroke" : 3,
+      "timestamps" : "",
+      "on" : "サン",
+      "tags" : [
+        "N5"
+      ],
+      "character" : "三",
+      "words" : "三つ (みっつ): three, ３日 (みっか): 3rd day of the month, 三枚 (さんまい): three flat objects (sheets of paper, pieces of cloth, etc.)",
+      "vocab" : [
+
+      ],
+      "meaning" : "Three",
+      "pinned" : false,
+      "radicals" : "一"
+    },
+    {
+      "pinned" : false,
+      "timestamps" : "",
+      "words" : "手紙 (てがみ): letter, 手袋 (てぶくろ): glove, 手錠 (てじょう): handcuffs, 手伝う (てつだう): to help",
+      "meaning" : "Hand",
+      "notes" : "",
+      "radicals" : "手",
+      "vocab" : [
+
+      ],
+      "tags" : [
+
+      ],
+      "character" : "手",
+      "kun" : "て",
+      "stroke" : 4,
+      "on" : "シュ"
+    },
+    {
+      "kun" : "あ",
+      "on" : "カイ",
+      "character" : "会",
+      "radicals" : "人",
+      "words" : "",
+      "meaning" : "meet",
+      "pinned" : false,
+      "notes" : "",
+      "stroke" : 6,
+      "tags" : [
+
+      ],
+      "timestamps" : "",
+      "vocab" : [
+
+      ]
+    },
+    {
+      "stroke" : 10,
+      "kun" : "-",
+      "meaning" : "member",
+      "tags" : [
+
+      ],
+      "notes" : "",
+      "timestamps" : "",
+      "words" : "",
+      "character" : "員",
+      "pinned" : false,
+      "vocab" : [
+
+      ],
+      "radicals" : "口",
+      "on" : "イン"
+    },
+    {
+      "character" : "傘",
+      "words" : "傘下 (さんか): affiliated with",
+      "on" : "セン",
+      "stroke" : 12,
+      "pinned" : false,
+      "timestamps" : "",
+      "tags" : [
+
+      ],
+      "radicals" : "人",
+      "vocab" : [
+
+      ],
+      "notes" : "",
+      "kun" : "かさ",
+      "meaning" : "umbrella"
+    },
+    {
+      "timestamps" : "",
+      "tags" : [
+        "N5"
+      ],
+      "vocab" : [
+
+      ],
+      "on" : "ビ",
+      "meaning" : "beautiful",
+      "notes" : "",
+      "stroke" : 9,
+      "pinned" : false,
+      "character" : "美",
+      "radicals" : "羊",
+      "words" : "美術館 (びじゅつかん): art museum, 美しい (うつくしい): beautiful, 美人 (びじん): beautiful woman",
+      "kun" : "うつく"
+    },
+    {
+      "character" : "医",
+      "on" : "イ",
+      "meaning" : "doctor",
+      "notes" : "",
+      "tags" : [
+
+      ],
+      "radicals" : "匸",
+      "stroke" : 7,
+      "words" : "",
+      "vocab" : [
+
+      ],
+      "pinned" : false,
+      "kun" : "い",
+      "timestamps" : ""
+    },
+    {
+      "tags" : [
+
+      ],
+      "on" : "シャ",
+      "notes" : "",
+      "character" : "社",
+      "meaning" : "shrine, company",
+      "timestamps" : "",
+      "words" : "社会 (しゃかい): society",
+      "vocab" : [
+
+      ],
+      "pinned" : false,
+      "radicals" : "礻",
+      "kun" : "やしろ",
+      "stroke" : 7
+    },
+    {
+      "radicals" : "口",
+      "pinned" : false,
+      "character" : "味",
+      "timestamps" : "",
+      "on" : "ミ",
+      "tags" : [
+        "N5"
+      ],
+      "stroke" : 8,
+      "vocab" : [
+
+      ],
+      "words" : "味 (あじ): flavor, 味わう (あじわう): to taste, 味噌汁 (みそしる): miso soup",
+      "kun" : "あじ",
+      "meaning" : "taste",
+      "notes" : ""
+    },
+    {
+      "stroke" : 8,
+      "kun" : "あお",
+      "character" : "青",
+      "meaning" : "blue",
+      "notes" : "",
+      "words" : "青年 (せいねん): youth",
+      "radicals" : "青",
+      "on" : "セイ",
+      "vocab" : [
+
+      ],
+      "pinned" : false,
+      "tags" : [
+
+      ],
+      "timestamps" : ""
+    },
+    {
+      "words" : "久々 (ひさびさ): (in a) long time",
+      "stroke" : 3,
+      "on" : "キュウ",
+      "kun" : "ひさ",
+      "meaning" : "long time",
+      "tags" : [
+
+      ],
+      "vocab" : [
+
+      ],
+      "radicals" : "ノ",
+      "pinned" : false,
+      "timestamps" : "",
+      "character" : "久",
+      "notes" : ""
+    },
+    {
+      "timestamps" : "",
+      "vocab" : [
+
+      ],
+      "words" : "力強い (ちからづよい): powerful, 力学 (りきがく): mechanics, 力量 (りきりょう): ability",
+      "notes" : "",
+      "kun" : "ちから",
+      "character" : "力",
+      "radicals" : "力",
+      "pinned" : true,
+      "tags" : [
+        "N5"
+      ],
+      "on" : "リョク",
+      "meaning" : "power",
+      "stroke" : 2
+    },
+    {
+      "meaning" : "shoes",
+      "notes" : "",
+      "radicals" : "革",
+      "kun" : "くつ",
+      "stroke" : 13,
+      "timestamps" : "",
+      "pinned" : false,
+      "vocab" : [
+
+      ],
+      "words" : "",
+      "on" : "カ",
+      "tags" : [
+
+      ],
+      "character" : "靴"
+    },
+    {
+      "notes" : "",
+      "vocab" : [
+
+      ],
+      "kun" : "みなと",
+      "pinned" : false,
+      "words" : "港市 (こうし): port city",
+      "radicals" : "水",
+      "stroke" : 12,
+      "character" : "港",
+      "on" : "コウ",
+      "meaning" : "harbor",
+      "timestamps" : "",
+      "tags" : [
+
+      ]
+    },
+    {
+      "tags" : [
+
+      ],
+      "pinned" : false,
+      "kun" : "と（ぐ）",
+      "meaning" : "study",
+      "radicals" : "石",
+      "on" : "ケン",
+      "notes" : "",
+      "character" : "研",
+      "timestamps" : "",
+      "vocab" : [
+
+      ],
+      "words" : "",
+      "stroke" : 9
+    },
+    {
+      "words" : "気分 (きぶん): feeling",
+      "tags" : [
+        "N5"
+      ],
+      "meaning" : "spirit",
+      "on" : "キ",
+      "radicals" : "气",
+      "stroke" : 6,
+      "vocab" : [
+
+      ],
+      "character" : "気",
+      "notes" : "",
+      "pinned" : false,
+      "timestamps" : "",
+      "kun" : "いき"
+    },
+    {
+      "stroke" : 7,
+      "words" : "",
+      "notes" : "",
+      "on" : "キュウ",
+      "radicals" : "穴",
+      "timestamps" : "",
+      "tags" : [
+
+      ],
+      "vocab" : [
+
+      ],
+      "meaning" : "research",
+      "pinned" : false,
+      "character" : "究",
+      "kun" : "きわ（ある）"
+    },
+    {
+      "on" : "クウ",
+      "pinned" : false,
+      "radicals" : "穴",
+      "stroke" : 8,
+      "words" : "空想 (くうそう): daydream, 空気 (くうき): air, 空き (あき): space",
+      "tags" : [
+        "N5"
+      ],
+      "timestamps" : "",
+      "meaning" : "sky",
+      "vocab" : [
+
+      ],
+      "kun" : "そら",
+      "character" : "空",
+      "notes" : ""
+    }
+  ],
+  "vocab" : [
+    {
+      "hiragana" : "れいぞうこ",
+      "attribute2" : "[]",
+      "notes" : "Noun",
+      "pinned" : false,
+      "attribute1" : "{}",
+      "tags" : [
+
+      ],
+      "timestamp" : "2024-09-22 14:17:18 +0000",
+      "attribute4" : "",
+      "word" : "冷蔵庫",
+      "translation" : "refrigerator, fridge",
+      "attribute3" : "",
+      "attribute5" : ""
+    },
+    {
+      "translation" : "study",
+      "hiragana" : "べんきょう",
+      "timestamp" : "2024-10-11 11:58:43 +0000",
+      "attribute1" : "",
+      "attribute2" : "",
+      "attribute3" : "",
+      "notes" : "Noun, Suru verb, Transitive verb",
+      "attribute5" : "",
+      "tags" : [
+        "N5"
+      ],
+      "pinned" : false,
+      "word" : "勉強",
+      "attribute4" : ""
+    },
+    {
+      "attribute1" : "",
+      "pinned" : false,
+      "attribute2" : "",
+      "notes" : "Noun",
+      "attribute3" : "",
+      "word" : "先生",
+      "attribute4" : "",
+      "tags" : [
+        "N5"
+      ],
+      "hiragana" : "せんせい",
+      "translation" : "Teacher",
+      "attribute5" : "",
+      "timestamp" : "2024-09-15 21:34:03 +0000"
+    },
+    {
+      "hiragana" : "あたらしい",
+      "translation" : "new",
+      "word" : "新しい",
+      "pinned" : false,
+      "attribute1" : "{}",
+      "timestamp" : "2024-09-21 22:23:14 +0000",
+      "tags" : [
+        "N5"
+      ],
+      "attribute2" : "[]",
+      "notes" : "I-adjective (keiyoushi)",
+      "attribute3" : "",
+      "attribute4" : "",
+      "attribute5" : ""
+    },
+    {
+      "timestamp" : "2024-10-11 11:59:50 +0000",
+      "attribute2" : "[]",
+      "translation" : "high school",
+      "hiragana" : "こうこう",
+      "word" : "高校",
+      "attribute4" : "",
+      "tags" : [
+        "N5"
+      ],
+      "attribute3" : "",
+      "attribute1" : "{}",
+      "attribute5" : "",
+      "notes" : "Noun",
+      "pinned" : false
+    },
+    {
+      "attribute3" : "",
+      "attribute4" : "",
+      "hiragana" : "てんき",
+      "tags" : [
+        "N5"
+      ],
+      "word" : "天気",
+      "attribute5" : "",
+      "translation" : "weather",
+      "timestamp" : "2024-10-11 12:05:08 +0000",
+      "attribute1" : "{}",
+      "pinned" : false,
+      "attribute2" : "[]",
+      "notes" : "Noun"
+    },
+    {
+      "attribute5" : "",
+      "tags" : [
+        "N5"
+      ],
+      "notes" : "Noun",
+      "attribute4" : "",
+      "hiragana" : "がくせい",
+      "word" : "学生",
+      "attribute2" : "[]",
+      "pinned" : false,
+      "timestamp" : "2024-09-16 18:07:51 +0000",
+      "attribute3" : "",
+      "translation" : "Student",
+      "attribute1" : "{}"
+    },
+    {
+      "tags" : [
+        "N5"
+      ],
+      "attribute1" : "{}",
+      "word" : "元気",
+      "attribute4" : "",
+      "translation" : "lively, full of spirit",
+      "notes" : "Na-adjective (keiyodoshi), Noun",
+      "attribute3" : "",
+      "hiragana" : "げんき",
+      "pinned" : false,
+      "timestamp" : "2024-10-11 12:04:43 +0000",
+      "attribute2" : "[]",
+      "attribute5" : ""
+    },
+    {
+      "timestamp" : "2024-10-11 07:28:16 +0000",
+      "hiragana" : "あおい",
+      "translation" : "blue, azure",
+      "attribute1" : "{}",
+      "attribute2" : "[]",
+      "word" : "青い",
+      "attribute4" : "",
+      "attribute5" : "",
+      "tags" : [
+        "N5"
+      ],
+      "attribute3" : "",
+      "pinned" : false,
+      "notes" : "I-adjective (keiyoushi)"
+    },
+    {
+      "tags" : [
+        "N5",
+        "Country"
+      ],
+      "attribute3" : "",
+      "hiragana" : "にほん",
+      "attribute4" : "",
+      "timestamp" : "2024-10-11 12:00:30 +0000",
+      "translation" : "Japan",
+      "attribute5" : "",
+      "attribute1" : "",
+      "word" : "日本",
+      "notes" : "Noun",
+      "pinned" : false,
+      "attribute2" : ""
+    },
+    {
+      "attribute4" : "",
+      "tags" : [
+
+      ],
+      "hiragana" : "おてあらい",
+      "attribute2" : "[]",
+      "translation" : "toilet, restroom",
+      "attribute5" : "",
+      "notes" : "Noun",
+      "pinned" : false,
+      "word" : "お手洗い",
+      "timestamp" : "2024-10-11 19:05:40 +0000",
+      "attribute1" : "{}",
+      "attribute3" : ""
+    },
+    {
+      "hiragana" : "ぶし",
+      "attribute2" : "[]",
+      "tags" : [
+        "Tsushima"
+      ],
+      "word" : "武士",
+      "attribute3" : "",
+      "translation" : "samurai, warrior",
+      "attribute1" : "{}",
+      "timestamp" : "2024-10-22 13:32:54 +0000",
+      "attribute4" : "",
+      "pinned" : false,
+      "attribute5" : "",
+      "notes" : "Noun"
+    },
+    {
+      "pinned" : false,
+      "attribute3" : "",
+      "tags" : [
+
+      ],
+      "attribute1" : "{}",
+      "notes" : "Noun",
+      "hiragana" : "くうこう",
+      "word" : "空港",
+      "translation" : "airport",
+      "timestamp" : "2024-10-12 11:31:45 +0000",
+      "attribute2" : "[]",
+      "attribute5" : "",
+      "attribute4" : ""
+    },
+    {
+      "notes" : "Noun",
+      "attribute3" : "",
+      "tags" : [
+        "FirstName",
+        "Tsushima"
+      ],
+      "attribute2" : "",
+      "attribute1" : "",
+      "hiragana" : "じん",
+      "pinned" : false,
+      "timestamp" : "2024-10-22 13:29:51 +0000",
+      "attribute4" : "",
+      "attribute5" : "",
+      "word" : "仁",
+      "translation" : "benevolence, consideration"
+    },
+    {
+      "pinned" : false,
+      "attribute4" : "",
+      "attribute3" : "",
+      "hiragana" : "ひこうき",
+      "tags" : [
+
+      ],
+      "attribute5" : "",
+      "translation" : "airplane",
+      "notes" : "Noun",
+      "timestamp" : "2024-10-12 11:31:07 +0000",
+      "attribute2" : "",
+      "word" : "飛行機",
+      "attribute1" : ""
+    },
+    {
+      "attribute1" : "{}",
+      "hiragana" : "つづける",
+      "translation" : "to continue, to keep up",
+      "timestamp" : "2024-10-24 09:29:15 +0000",
+      "attribute5" : "",
+      "word" : "続ける",
+      "pinned" : false,
+      "attribute2" : "[]",
+      "notes" : "Ichidan verb, Transitive verb, Auxiliary verb",
+      "tags" : [
+
+      ],
+      "attribute3" : "",
+      "attribute4" : ""
+    },
+    {
+      "timestamp" : "2024-10-11 11:59:30 +0000",
+      "hiragana" : "がっこう",
+      "notes" : "Noun",
+      "attribute2" : "[]",
+      "attribute4" : "",
+      "attribute5" : "",
+      "attribute3" : "",
+      "translation" : "school",
+      "tags" : [
+        "N5"
+      ],
+      "word" : "学校",
+      "attribute1" : "{}",
+      "pinned" : false
+    },
+    {
+      "attribute2" : "",
+      "attribute4" : "",
+      "hiragana" : "おがわ",
+      "attribute1" : "",
+      "word" : "小川",
+      "notes" : "Noun",
+      "pinned" : false,
+      "translation" : "stream, brook",
+      "attribute3" : "",
+      "attribute5" : "",
+      "timestamp" : "2024-10-23 11:30:30 +0000",
+      "tags" : [
+        "FirstName"
+      ]
+    },
+    {
+      "attribute4" : "",
+      "translation" : "willpower, energy",
+      "attribute2" : "[]",
+      "notes" : "Noun",
+      "pinned" : false,
+      "timestamp" : "2024-10-22 13:05:48 +0000",
+      "attribute1" : "{}",
+      "attribute3" : "",
+      "tags" : [
+        "Tsushima"
+      ],
+      "hiragana" : "きりょく",
+      "attribute5" : "",
+      "word" : "気力"
+    },
+    {
+      "attribute3" : "",
+      "translation" : "reservation, appointment",
+      "attribute5" : "",
+      "timestamp" : "2024-10-12 11:34:31 +0000",
+      "pinned" : false,
+      "tags" : [
+
+      ],
+      "hiragana" : "よやく",
+      "notes" : "Noun, Suru verb, Transitive verb",
+      "attribute1" : "{}",
+      "attribute2" : "[]",
+      "word" : "予約",
+      "attribute4" : ""
+    },
+    {
+      "attribute3" : "",
+      "hiragana" : "じょりょく",
+      "tags" : [
+        "Tsushima"
+      ],
+      "attribute1" : "{}",
+      "attribute4" : "",
+      "attribute5" : "",
+      "notes" : "Noun, Suru verb, Intransitive verb",
+      "pinned" : false,
+      "word" : "助力",
+      "timestamp" : "2024-10-24 18:25:31 +0000",
+      "attribute2" : "[]",
+      "translation" : "assistance, support"
+    },
+    {
+      "hiragana" : "とうきょう",
+      "attribute1" : "{}",
+      "tags" : [
+        "City",
+        "Japan"
+      ],
+      "attribute2" : "[]",
+      "attribute3" : "",
+      "attribute4" : "",
+      "attribute5" : "",
+      "translation" : "Tokyo",
+      "pinned" : false,
+      "timestamp" : "2024-10-12 11:32:39 +0000",
+      "word" : "東京",
+      "notes" : "Noun"
+    },
+    {
+      "notes" : "Noun",
+      "tags" : [
+        "Tsushima",
+        "Japan"
+      ],
+      "translation" : "Tsushima",
+      "attribute5" : "",
+      "attribute1" : "{}",
+      "timestamp" : "2024-10-25 11:12:02 +0000",
+      "pinned" : false,
+      "attribute2" : "[{\"timestamp\":752798068.693595,\"id\":\"93BF34A0-0F16-411E-9041-435FE9F00BA7\",\"text\":\"former province located on Tsushima Island in present-day Nagasaki Prefecture\"}]",
+      "hiragana" : "つしま",
+      "attribute4" : "",
+      "attribute3" : "",
+      "word" : "対馬"
+    },
+    {
+      "tags" : [
+        "FirstName",
+        "Tsushima"
+      ],
+      "attribute5" : "",
+      "attribute1" : "{}",
+      "word" : "政子",
+      "hiragana" : "まさこ",
+      "timestamp" : "2024-10-25 11:38:59 +0000",
+      "translation" : "Masako",
+      "notes" : "Noun",
+      "pinned" : false,
+      "attribute2" : "[]",
+      "attribute3" : "",
+      "attribute4" : ""
+    },
+    {
+      "translation" : "ronin, masterless samurai",
+      "pinned" : false,
+      "notes" : "Noun, Suru verb, Intransitive verb",
+      "attribute1" : "{}",
+      "attribute3" : "",
+      "attribute4" : "",
+      "tags" : [
+        "Tsushima"
+      ],
+      "attribute5" : "",
+      "hiragana" : "ろうにん",
+      "attribute2" : "[]",
+      "word" : "牢人",
+      "timestamp" : "2024-10-25 12:37:05 +0000"
+    },
+    {
+      "attribute1" : "{}",
+      "word" : "到着",
+      "notes" : "Noun, Suru verb, Intransitive verb",
+      "timestamp" : "2024-10-26 14:54:04 +0000",
+      "attribute3" : "",
+      "translation" : "arrival",
+      "attribute4" : "",
+      "hiragana" : "とうちゃく",
+      "pinned" : false,
+      "attribute5" : "",
+      "attribute2" : "[]",
+      "tags" : [
+
+      ]
+    },
+    {
+      "timestamp" : "2024-10-26 15:00:49 +0000",
+      "translation" : "to pick up, to gather",
+      "attribute3" : "",
+      "attribute4" : "",
+      "attribute2" : "[]",
+      "tags" : [
+
+      ],
+      "attribute5" : "",
+      "word" : "拾う",
+      "hiragana" : "ひろう",
+      "notes" : "Godan verb with 'u' ending, Transitive verb",
+      "pinned" : false,
+      "attribute1" : ""
+    },
+    {
+      "attribute3" : "",
+      "tags" : [
+        "N5"
+      ],
+      "hiragana" : "みる",
+      "attribute1" : "",
+      "timestamp" : "2024-10-26 18:58:54 +0000",
+      "word" : "見る",
+      "pinned" : false,
+      "attribute4" : "",
+      "attribute5" : "",
+      "translation" : "to see, to look",
+      "notes" : "Ichidan verb, Transitive verb",
+      "attribute2" : ""
+    },
+    {
+      "tags" : [
+        "Music"
+      ],
+      "hiragana" : "しゃみせん",
+      "word" : "三味線",
+      "attribute1" : "{\"Present Positive\":\"\",\"Past Negative\":\"\"}",
+      "notes" : "Noun",
+      "pinned" : true,
+      "translation" : "shamisen",
+      "attribute5" : "",
+      "attribute2" : "[]",
+      "attribute3" : "",
+      "attribute4" : "",
+      "timestamp" : "2024-10-31 07:42:33 +0000"
+    },
+    {
+      "timestamp" : "2024-11-02 09:43:21 +0000",
+      "word" : "見つける",
+      "attribute2" : "[]",
+      "attribute5" : "",
+      "hiragana" : "みつける",
+      "tags" : [
+
+      ],
+      "notes" : "Ichidan verb, Transitive verb",
+      "translation" : "to find, to discover",
+      "pinned" : false,
+      "attribute3" : "",
+      "attribute1" : "{}",
+      "attribute4" : ""
+    },
+    {
+      "timestamp" : "2024-11-04 16:45:28 +0000",
+      "attribute3" : "",
+      "attribute2" : "[{\"id\":\"7705EA49-B912-460A-B1E6-D2203A7E7E63\",\"timestamp\":753829664.513339,\"text\":\"Red. Super red. Notes tes 1\"},{\"id\":\"06458290-EFA2-4AE7-BB35-ACC50B4BE53A\",\"text\":\"I meant test*, so this is test 2\",\"timestamp\":753829680.30553},{\"timestamp\":753829722.618088,\"id\":\"06C64304-E5CD-4F7F-B1CA-8C8E7B604906\",\"text\":\"BIiiiiiiiiiiiiiiiiiiiiii iiiiiiiiiii iiiiiiiiiii iiiiiiiiiii iiiiiiiiiii iiiiiiiiiiig note BIiiiiiiiiiiiiiiiiiiiiii iiiiiiiiiii iiiiiiiiiii iiiiiiiiiii iiiiiiiiiii iiiiiiiiiiig note BIiiiiiiiiiiiiiiiiiiiiii iiiiiiiiiii iiiiiiiiiii iiiiiiiiiii iiiiiiiiiii iiiiiiiiiiig note, so test 3. \"}]",
+      "attribute5" : "",
+      "word" : "赤い",
+      "hiragana" : "あかい",
+      "translation" : "red, crimson",
+      "notes" : "I-adjective (keiyoushi)",
+      "pinned" : false,
+      "attribute4" : "",
+      "attribute1" : "{\"Past Positive\":\"赤かった\",\"Te-form\":\"赤くて\",\"Past Negative\":\"赤くなかった\",\"Present Negative\":\"赤くない\",\"Adverbial\":\"赤く\",\"Present Positive\":\"赤い\",\"Conditional\":\"赤ければ\"}",
+      "tags" : [
+        "N5"
+      ]
+    },
+    {
+      "attribute4" : "",
+      "attribute5" : "",
+      "hiragana" : "おひさしぶり",
+      "pinned" : false,
+      "tags" : [
+        "N5"
+      ],
+      "attribute1" : "{}",
+      "attribute3" : "",
+      "attribute2" : "[]",
+      "notes" : "Expressions (phrases, clauses, etc.)",
+      "translation" : "it's been a long time, long time no see",
+      "word" : "お久しぶり",
+      "timestamp" : "2024-11-06 13:55:34 +0000"
+    },
+    {
+      "attribute1" : "{}",
+      "attribute5" : "",
+      "translation" : "awamori",
+      "notes" : "Noun",
+      "attribute3" : "",
+      "attribute2" : "[{\"id\":\"E47EBA27-9E26-497A-B5DD-BB944EFF05B5\",\"text\":\"Strong Okinawan liquor distilled from rice or millet\",\"timestamp\":752747762.982359}]",
+      "pinned" : true,
+      "word" : "泡盛",
+      "timestamp" : "2024-11-08 08:35:44 +0000",
+      "attribute4" : "",
+      "tags" : [
+        "RGG"
+      ],
+      "hiragana" : "あわもり"
+    },
+    {
+      "notes" : "Noun",
+      "hiragana" : "しょうぎ",
+      "translation" : "shogi",
+      "pinned" : false,
+      "attribute1" : "{}",
+      "attribute2" : "[]",
+      "attribute3" : "",
+      "attribute4" : "",
+      "timestamp" : "2024-11-08 22:33:44 +0000",
+      "attribute5" : "",
+      "word" : "将棋",
+      "tags" : [
+
+      ]
+    },
+    {
+      "attribute3" : "",
+      "tags" : [
+        "Genki1"
+      ],
+      "translation" : "good(-tasting)",
+      "hiragana" : "おいしい",
+      "pinned" : false,
+      "timestamp" : "2024-11-09 15:35:23 +0000",
+      "attribute4" : "",
+      "attribute1" : "{}",
+      "word" : "美味しい",
+      "attribute2" : "[]",
+      "attribute5" : "",
+      "notes" : "I-adjective (keiyoushi)"
+    },
+    {
+      "attribute3" : "",
+      "tags" : [
+        "Genki1"
+      ],
+      "word" : "魚",
+      "timestamp" : "2024-11-09 15:35:32 +0000",
+      "attribute1" : "{}",
+      "attribute2" : "[]",
+      "hiragana" : "さかな",
+      "notes" : "Noun",
+      "attribute5" : "",
+      "translation" : "fish",
+      "pinned" : false,
+      "attribute4" : ""
+    },
+    {
+      "notes" : "Noun",
+      "attribute2" : "[]",
+      "tags" : [
+        "Genki1"
+      ],
+      "translation" : "breaded pork cutlet",
+      "attribute1" : "{}",
+      "attribute5" : "",
+      "timestamp" : "2024-11-09 15:36:36 +0000",
+      "pinned" : false,
+      "attribute3" : "",
+      "hiragana" : "とんかつ",
+      "attribute4" : "",
+      "word" : "とんかつ"
+    },
+    {
+      "attribute3" : "",
+      "pinned" : false,
+      "notes" : "Noun",
+      "attribute4" : "",
+      "hiragana" : "にく",
+      "timestamp" : "2024-11-09 15:36:48 +0000",
+      "attribute5" : "",
+      "attribute1" : "{\n\n}",
+      "word" : "肉",
+      "tags" : [
+        "Genki1"
+      ],
+      "translation" : "flesh",
+      "attribute2" : ""
+    },
+    {
+      "attribute3" : "",
+      "attribute5" : "",
+      "tags" : [
+        "Genki1"
+      ],
+      "timestamp" : "2024-11-09 15:40:44 +0000",
+      "word" : "メンュー",
+      "attribute4" : "",
+      "hiragana" : "めにゅー",
+      "pinned" : false,
+      "translation" : "Menu",
+      "notes" : "Noun",
+      "attribute1" : "{}",
+      "attribute2" : "[]"
+    },
+    {
+      "tags" : [
+        "Genki1"
+      ],
+      "attribute1" : "{}",
+      "translation" : "vegetable",
+      "notes" : "Noun",
+      "timestamp" : "2024-11-09 15:41:00 +0000",
+      "attribute3" : "",
+      "word" : "野菜",
+      "pinned" : false,
+      "attribute5" : "",
+      "hiragana" : "やさい",
+      "attribute2" : "[]",
+      "attribute4" : ""
+    },
+    {
+      "attribute2" : "[]",
+      "attribute5" : "",
+      "hiragana" : "かさ",
+      "translation" : "umbrella",
+      "word" : "傘",
+      "notes" : "Noun",
+      "pinned" : false,
+      "timestamp" : "2024-11-09 15:41:15 +0000",
+      "attribute4" : "",
+      "tags" : [
+        "Genki1"
+      ],
+      "attribute3" : "",
+      "attribute1" : "{}"
+    },
+    {
+      "hiragana" : "かばん",
+      "timestamp" : "2024-11-09 15:41:32 +0000",
+      "attribute5" : "",
+      "attribute1" : "{\n\n}",
+      "pinned" : false,
+      "translation" : "bag",
+      "attribute3" : "",
+      "word" : "鞄",
+      "notes" : "Noun",
+      "attribute2" : "",
+      "attribute4" : "",
+      "tags" : [
+        "Genki1"
+      ]
+    },
+    {
+      "attribute4" : "",
+      "translation" : "shoes",
+      "hiragana" : "くつ",
+      "word" : "靴",
+      "notes" : "Noun",
+      "timestamp" : "2024-11-09 15:42:00 +0000",
+      "attribute2" : "[]",
+      "attribute3" : "",
+      "attribute5" : "",
+      "tags" : [
+        "Genki1"
+      ],
+      "pinned" : false,
+      "attribute1" : "{}"
+    },
+    {
+      "pinned" : false,
+      "timestamp" : "2024-11-09 15:42:16 +0000",
+      "attribute1" : "{\n\n}",
+      "attribute4" : "",
+      "attribute5" : "",
+      "attribute2" : "",
+      "tags" : [
+        "Genki1"
+      ],
+      "translation" : "wallet",
+      "notes" : "Noun",
+      "word" : "財布",
+      "attribute3" : "",
+      "hiragana" : "さいふ"
+    },
+    {
+      "word" : "大学",
+      "tags" : [
+        "Genki1"
+      ],
+      "attribute4" : "",
+      "hiragana" : "だいがく",
+      "attribute1" : "{}",
+      "translation" : "university, college",
+      "attribute3" : "",
+      "attribute5" : "",
+      "notes" : "Noun",
+      "pinned" : false,
+      "timestamp" : "2024-11-10 11:28:12 +0000",
+      "attribute2" : "[]"
+    },
+    {
+      "word" : "大学生",
+      "attribute1" : "{}",
+      "notes" : "Noun",
+      "attribute5" : "",
+      "tags" : [
+        "Genki1"
+      ],
+      "attribute4" : "",
+      "attribute2" : "[]",
+      "hiragana" : "だいがくせい",
+      "pinned" : false,
+      "timestamp" : "2024-11-10 11:28:42 +0000",
+      "attribute3" : "",
+      "translation" : "university student, college student"
+    },
+    {
+      "timestamp" : "2024-11-10 11:29:12 +0000",
+      "attribute1" : "{}",
+      "attribute3" : "",
+      "word" : "留学生",
+      "notes" : "Noun",
+      "pinned" : false,
+      "attribute2" : "[]",
+      "translation" : "overseas student, exchange student",
+      "hiragana" : "りゅうがくせい",
+      "attribute4" : "",
+      "attribute5" : "",
+      "tags" : [
+        "Genki1"
+      ]
+    },
+    {
+      "tags" : [
+        "Genki1"
+      ],
+      "pinned" : false,
+      "hiragana" : "せんこう",
+      "attribute1" : "{}",
+      "attribute2" : "[]",
+      "notes" : "Noun, Suru verb, Transitive verb, Noun which may take the genitive case particle 'no'",
+      "timestamp" : "2024-11-10 11:29:50 +0000",
+      "word" : "専攻",
+      "attribute3" : "",
+      "translation" : "major subject, special study",
+      "attribute4" : "",
+      "attribute5" : ""
+    },
+    {
+      "attribute2" : "",
+      "notes" : "Pronoun",
+      "word" : "私",
+      "translation" : "I, me",
+      "pinned" : false,
+      "timestamp" : "2024-11-10 11:30:01 +0000",
+      "attribute4" : "",
+      "tags" : [
+        "Genki1"
+      ],
+      "attribute3" : "",
+      "attribute5" : "",
+      "attribute1" : "{\n\n}",
+      "hiragana" : "わたし"
+    },
+    {
+      "attribute1" : "{}",
+      "translation" : "friend, companion",
+      "attribute2" : "[]",
+      "pinned" : false,
+      "attribute3" : "",
+      "attribute5" : "",
+      "hiragana" : "ともだち",
+      "tags" : [
+        "Genki1"
+      ],
+      "attribute4" : "",
+      "notes" : "Noun",
+      "word" : "友達",
+      "timestamp" : "2024-11-10 11:30:14 +0000"
+    },
+    {
+      "translation" : "Japanese person",
+      "attribute4" : "",
+      "attribute3" : "",
+      "word" : "日本人",
+      "tags" : [
+        "Genki1"
+      ],
+      "notes" : "Noun",
+      "attribute2" : "",
+      "timestamp" : "2024-11-10 11:30:45 +0000",
+      "attribute1" : "{\n\n}",
+      "hiragana" : "にほんじん",
+      "attribute5" : "",
+      "pinned" : false
+    },
+    {
+      "attribute5" : "",
+      "attribute3" : "",
+      "word" : "今",
+      "tags" : [
+        "Genki1"
+      ],
+      "attribute2" : "",
+      "translation" : "now, the present time",
+      "pinned" : false,
+      "timestamp" : "2024-11-10 11:30:55 +0000",
+      "attribute1" : "{\n\n}",
+      "hiragana" : "いま",
+      "notes" : "Noun, Noun which may take the genitive case particle 'no', Adverb (fukushi)",
+      "attribute4" : ""
+    },
+    {
+      "hiragana" : "ごぜん",
+      "attribute4" : "",
+      "timestamp" : "2024-11-10 11:31:08 +0000",
+      "attribute2" : "[]",
+      "tags" : [
+        "Genki1"
+      ],
+      "attribute5" : "",
+      "pinned" : false,
+      "word" : "午前",
+      "notes" : "Noun, Adverb (fukushi)",
+      "attribute1" : "{}",
+      "attribute3" : "",
+      "translation" : "morning, a.m."
+    },
+    {
+      "translation" : "afternoon, p.m.",
+      "pinned" : false,
+      "attribute2" : "",
+      "attribute5" : "",
+      "attribute4" : "",
+      "notes" : "Noun, Adverb (fukushi)",
+      "tags" : [
+        "Genki1"
+      ],
+      "word" : "午後",
+      "hiragana" : "ごご",
+      "attribute1" : "{\n\n}",
+      "timestamp" : "2024-11-10 11:31:19 +0000",
+      "attribute3" : ""
+    },
+    {
+      "translation" : "half, semi-",
+      "pinned" : false,
+      "attribute3" : "",
+      "timestamp" : "2024-11-10 11:31:35 +0000",
+      "hiragana" : "はん",
+      "attribute4" : "",
+      "tags" : [
+        "Genki1"
+      ],
+      "word" : "半",
+      "notes" : "Noun, used as a prefix, Noun",
+      "attribute1" : "{\n\n}",
+      "attribute2" : "",
+      "attribute5" : ""
+    },
+    {
+      "notes" : "-",
+      "attribute4" : "",
+      "attribute3" : "",
+      "attribute5" : "",
+      "tags" : [
+        "Genki1"
+      ],
+      "pinned" : false,
+      "word" : "二時半",
+      "translation" : "Half past two",
+      "attribute1" : "{\n\n}",
+      "attribute2" : "",
+      "hiragana" : "にじはん",
+      "timestamp" : "2024-11-10 11:32:24 +0000"
+    },
+    {
+      "timestamp" : "2024-11-10 11:32:59 +0000",
+      "attribute4" : "",
+      "pinned" : false,
+      "attribute2" : "[]",
+      "translation" : "United States",
+      "notes" : "Noun",
+      "word" : "アメリカ",
+      "attribute5" : "",
+      "attribute3" : "",
+      "hiragana" : "あめりか",
+      "attribute1" : "{}",
+      "tags" : [
+        "Genki1",
+        "Country"
+      ]
+    },
+    {
+      "attribute5" : "",
+      "notes" : "Noun",
+      "translation" : "Japanese (language)",
+      "attribute1" : "{\n\n}",
+      "attribute4" : "",
+      "timestamp" : "2024-11-10 11:33:13 +0000",
+      "attribute3" : "",
+      "pinned" : false,
+      "attribute2" : "",
+      "word" : "日本語",
+      "tags" : [
+        "Genki1"
+      ],
+      "hiragana" : "にほんご"
+    },
+    {
+      "translation" : "telephone call, phone call",
+      "attribute2" : "[]",
+      "timestamp" : "2024-11-10 11:33:28 +0000",
+      "attribute4" : "",
+      "attribute5" : "",
+      "tags" : [
+        "Genki1"
+      ],
+      "word" : "電話",
+      "attribute3" : "",
+      "hiragana" : "でんわ",
+      "notes" : "Noun, Suru verb, Noun which may take the genitive case particle 'no'",
+      "pinned" : false,
+      "attribute1" : "{}"
+    },
+    {
+      "attribute5" : "",
+      "translation" : "number, series of digits",
+      "tags" : [
+        "Genki1"
+      ],
+      "timestamp" : "2024-11-10 11:33:55 +0000",
+      "attribute2" : "",
+      "attribute1" : "{\n\n}",
+      "hiragana" : "ばんごう",
+      "pinned" : false,
+      "attribute3" : "",
+      "notes" : "Noun",
+      "attribute4" : "",
+      "word" : "番号"
+    },
+    {
+      "timestamp" : "2024-11-10 11:34:06 +0000",
+      "attribute1" : "{\n\n}",
+      "attribute3" : "",
+      "attribute2" : "",
+      "word" : "名前",
+      "notes" : "Noun",
+      "attribute4" : "",
+      "attribute5" : "",
+      "tags" : [
+        "Genki1"
+      ],
+      "hiragana" : "なまえ",
+      "pinned" : false,
+      "translation" : "name"
+    },
+    {
+      "attribute5" : "",
+      "translation" : "what",
+      "timestamp" : "2024-11-10 11:34:17 +0000",
+      "notes" : "Pronoun",
+      "attribute1" : "{\n\n}",
+      "attribute4" : "",
+      "word" : "何",
+      "attribute3" : "",
+      "tags" : [
+        "Genki1"
+      ],
+      "pinned" : false,
+      "attribute2" : "",
+      "hiragana" : "なに"
+    },
+    {
+      "hiragana" : "いぎりす",
+      "attribute2" : "",
+      "word" : "イギリス",
+      "attribute1" : "{\n\n}",
+      "translation" : "United Kingdom, Britain",
+      "notes" : "Noun",
+      "attribute3" : "",
+      "attribute4" : "",
+      "tags" : [
+        "Genki1"
+      ],
+      "timestamp" : "2024-11-10 11:35:09 +0000",
+      "pinned" : false,
+      "attribute5" : ""
+    },
+    {
+      "word" : "オーストラリア",
+      "hiragana" : "おーすとらりあ",
+      "timestamp" : "2024-11-10 11:35:34 +0000",
+      "translation" : "Australia",
+      "attribute1" : "{\n\n}",
+      "attribute2" : "",
+      "notes" : "Noun",
+      "pinned" : false,
+      "attribute3" : "",
+      "attribute4" : "",
+      "attribute5" : "",
+      "tags" : [
+        "Genki1",
+        "Country"
+      ]
+    },
+    {
+      "attribute1" : "{}",
+      "timestamp" : "2024-11-10 11:35:48 +0000",
+      "attribute3" : "",
+      "translation" : "South Korea, Republic of Korea",
+      "notes" : "Noun",
+      "word" : "韓国",
+      "hiragana" : "かんこく",
+      "attribute5" : "",
+      "tags" : [
+        "Genki1",
+        "Country"
+      ],
+      "pinned" : false,
+      "attribute2" : "[]",
+      "attribute4" : ""
+    },
+    {
+      "tags" : [
+        "Genki1",
+        "Country"
+      ],
+      "attribute2" : "",
+      "word" : "カナダ",
+      "pinned" : false,
+      "timestamp" : "2024-11-10 11:36:02 +0000",
+      "translation" : "Canada",
+      "attribute3" : "",
+      "attribute4" : "",
+      "attribute5" : "",
+      "hiragana" : "かなだ",
+      "notes" : "Noun",
+      "attribute1" : "{\n\n}"
+    },
+    {
+      "attribute4" : "",
+      "tags" : [
+        "Genki1",
+        "Country"
+      ],
+      "attribute1" : "{}",
+      "hiragana" : "ちゅうごく",
+      "attribute2" : "[]",
+      "attribute5" : "",
+      "translation" : "China",
+      "word" : "中国",
+      "pinned" : false,
+      "attribute3" : "",
+      "timestamp" : "2024-11-10 11:36:47 +0000",
+      "notes" : "Noun"
+    },
+    {
+      "hiragana" : "いんど",
+      "pinned" : false,
+      "attribute4" : "",
+      "tags" : [
+        "Genki1",
+        "Country"
+      ],
+      "attribute2" : "",
+      "attribute3" : "",
+      "attribute5" : "",
+      "notes" : "Noun",
+      "translation" : "India",
+      "word" : "インド",
+      "timestamp" : "2024-11-10 11:37:08 +0000",
+      "attribute1" : "{\n\n}"
+    },
+    {
+      "attribute2" : "[]",
+      "timestamp" : "2024-11-10 11:37:29 +0000",
+      "attribute5" : "",
+      "notes" : "Noun",
+      "translation" : "Egypt",
+      "hiragana" : "えじぷと",
+      "attribute1" : "{}",
+      "attribute4" : "",
+      "pinned" : false,
+      "word" : "エジプト",
+      "tags" : [
+        "Genki1",
+        "Country"
+      ],
+      "attribute3" : ""
+    },
+    {
+      "word" : "研究",
+      "hiragana" : "けんきゅう",
+      "pinned" : false,
+      "timestamp" : "2024-11-10 11:38:15 +0000",
+      "attribute5" : "",
+      "attribute4" : "",
+      "attribute2" : "[]",
+      "attribute1" : "{}",
+      "attribute3" : "",
+      "translation" : "research, study",
+      "notes" : "Noun, Suru verb, Transitive verb",
+      "tags" : [
+        "Genki1"
+      ]
+    },
+    {
+      "attribute2" : "[]",
+      "attribute1" : "{}",
+      "attribute4" : "",
+      "attribute5" : "",
+      "word" : "経済",
+      "notes" : "Noun",
+      "tags" : [
+        "Genki1"
+      ],
+      "pinned" : false,
+      "translation" : "economy, economics",
+      "hiragana" : "けいざい",
+      "timestamp" : "2024-11-10 11:38:29 +0000",
+      "attribute3" : ""
+    },
+    {
+      "notes" : "Noun",
+      "pinned" : false,
+      "attribute4" : "",
+      "attribute3" : "",
+      "attribute5" : "",
+      "timestamp" : "2024-11-10 11:38:52 +0000",
+      "hiragana" : "こうがく",
+      "attribute1" : "{}",
+      "attribute2" : "[]",
+      "word" : "工学",
+      "tags" : [
+        "Genki1"
+      ],
+      "translation" : "engineering"
+    },
+    {
+      "tags" : [
+        "Genki1"
+      ],
+      "timestamp" : "2024-11-10 11:39:19 +0000",
+      "translation" : "international relations",
+      "attribute1" : "{}",
+      "attribute5" : "",
+      "notes" : "Noun",
+      "word" : "国際関係",
+      "hiragana" : "こくさいかんけい",
+      "pinned" : true,
+      "attribute2" : "[]",
+      "attribute3" : "",
+      "attribute4" : ""
+    },
+    {
+      "notes" : "Noun",
+      "attribute3" : "",
+      "word" : "政治",
+      "hiragana" : "せいじ",
+      "timestamp" : "2024-11-10 11:39:35 +0000",
+      "pinned" : false,
+      "attribute2" : "[]",
+      "tags" : [
+        "Genki1"
+      ],
+      "translation" : "politics, government",
+      "attribute5" : "",
+      "attribute4" : "",
+      "attribute1" : "{}"
+    },
+    {
+      "timestamp" : "2024-11-10 11:39:49 +0000",
+      "translation" : "biology",
+      "hiragana" : "せいぶつがく",
+      "notes" : "Noun",
+      "attribute2" : "[]",
+      "word" : "生物学",
+      "attribute1" : "{}",
+      "attribute3" : "",
+      "pinned" : false,
+      "attribute4" : "",
+      "attribute5" : "",
+      "tags" : [
+        "Genki1"
+      ]
+    },
+    {
+      "attribute3" : "",
+      "attribute5" : "",
+      "notes" : "Noun",
+      "pinned" : false,
+      "timestamp" : "2024-11-10 11:40:12 +0000",
+      "translation" : "business",
+      "attribute1" : "{\n\n}",
+      "attribute2" : "",
+      "word" : "ビジネス",
+      "hiragana" : "びじねす",
+      "attribute4" : "",
+      "tags" : [
+        "Genki1"
+      ]
+    },
+    {
+      "hiragana" : "ぶんがく",
+      "notes" : "Noun",
+      "pinned" : false,
+      "translation" : "literature",
+      "attribute3" : "",
+      "attribute2" : "[]",
+      "attribute1" : "{}",
+      "attribute4" : "",
+      "timestamp" : "2024-11-10 11:40:39 +0000",
+      "tags" : [
+        "Genki1"
+      ],
+      "word" : "文学",
+      "attribute5" : ""
+    },
+    {
+      "hiragana" : "れきし",
+      "attribute1" : "{\n\n}",
+      "attribute3" : "",
+      "attribute5" : "",
+      "notes" : "Noun",
+      "tags" : [
+        "Genki1"
+      ],
+      "word" : "歴史",
+      "translation" : "history",
+      "attribute2" : "",
+      "pinned" : false,
+      "timestamp" : "2024-11-10 11:40:55 +0000",
+      "attribute4" : ""
+    },
+    {
+      "tags" : [
+        "Genki1"
+      ],
+      "hiragana" : "いしゃ",
+      "attribute5" : "",
+      "notes" : "Noun",
+      "attribute1" : "{\n\n}",
+      "pinned" : false,
+      "word" : "医者",
+      "timestamp" : "2024-11-10 11:41:06 +0000",
+      "attribute3" : "",
+      "attribute2" : "",
+      "attribute4" : "",
+      "translation" : "doctor, physician"
+    },
+    {
+      "attribute3" : "",
+      "timestamp" : "2024-11-10 11:41:21 +0000",
+      "attribute4" : "",
+      "tags" : [
+        "Genki1"
+      ],
+      "notes" : "Noun",
+      "attribute5" : "",
+      "hiragana" : "かいしゃいん",
+      "translation" : "company employee, office worker",
+      "pinned" : false,
+      "attribute2" : "[]",
+      "word" : "会社員",
+      "attribute1" : "{}"
+    },
+    {
+      "attribute5" : "",
+      "timestamp" : "2024-11-10 11:41:41 +0000",
+      "notes" : "Noun",
+      "attribute1" : "{}",
+      "attribute4" : "",
+      "hiragana" : "かんごし",
+      "translation" : "(hospital) nurse, registered nurse",
+      "word" : "看護師",
+      "tags" : [
+        "Genki1"
+      ],
+      "pinned" : false,
+      "attribute3" : "",
+      "attribute2" : "[]"
+    },
+    {
+      "attribute2" : "[]",
+      "hiragana" : "こうこうせい",
+      "attribute4" : "",
+      "word" : "高校生",
+      "attribute3" : "",
+      "attribute1" : "{}",
+      "notes" : "Noun",
+      "pinned" : false,
+      "translation" : "high school student",
+      "timestamp" : "2024-11-10 11:42:03 +0000",
+      "attribute5" : "",
+      "tags" : [
+        "Genki1"
+      ]
+    },
+    {
+      "attribute3" : "",
+      "attribute1" : "{}",
+      "timestamp" : "2024-11-10 11:42:17 +0000",
+      "attribute5" : "",
+      "notes" : "Noun",
+      "word" : "主婦",
+      "translation" : "housewife, mistress (of the house)",
+      "hiragana" : "しゅふ",
+      "attribute4" : "",
+      "tags" : [
+        "Genki1"
+      ],
+      "pinned" : false,
+      "attribute2" : "[]"
+    },
+    {
+      "timestamp" : "2024-11-11 21:38:35 +0000",
+      "attribute4" : "",
+      "pinned" : false,
+      "attribute1" : "{}",
+      "word" : "隊長",
+      "attribute2" : "[]",
+      "translation" : "commanding officer",
+      "notes" : "Noun",
+      "tags" : [
+        "RGG"
+      ],
+      "hiragana" : "たいちょう",
+      "attribute5" : "",
+      "attribute3" : ""
+    },
+    {
+      "attribute3" : "",
+      "notes" : "Noun",
+      "tags" : [
+
+      ],
+      "timestamp" : "2024-11-16 11:40:44 +0000",
+      "translation" : "man, male",
+      "attribute1" : "{}",
+      "hiragana" : "だんせい",
+      "pinned" : false,
+      "word" : "男性",
+      "attribute2" : "[]",
+      "attribute5" : "",
+      "attribute4" : ""
+    },
+    {
+      "notes" : "I-adjective (keiyoushi)",
+      "attribute1" : "{\n\n}",
+      "attribute3" : "",
+      "attribute5" : "",
+      "word" : "暑い",
+      "timestamp" : "2024-11-16 13:55:11 +0000",
+      "tags" : [
+        "N5"
+      ],
+      "attribute2" : "",
+      "pinned" : false,
+      "translation" : "hot, warm",
+      "attribute4" : "",
+      "hiragana" : "あつい"
+    },
+    {
+      "attribute5" : "",
+      "attribute2" : "",
+      "tags" : [
+
+      ],
+      "hiragana" : "おちつける",
+      "attribute3" : "",
+      "word" : "落ち着け理",
+      "notes" : "Ichidan verb, Transitive verb",
+      "translation" : "to quiet, to calm down",
+      "pinned" : false,
+      "timestamp" : "2024-11-17 12:37:49 +0000",
+      "attribute1" : "{\n\n}",
+      "attribute4" : ""
+    }
+  ]
+}
